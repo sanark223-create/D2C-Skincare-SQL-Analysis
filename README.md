@@ -1,4 +1,4 @@
-# D2C-Skincare-SQL-Analysis
+
 # D2C Skincare Brand - SQL Data Analysis
 
 ## Project Overview
